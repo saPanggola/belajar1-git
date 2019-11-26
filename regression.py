@@ -1,4 +1,4 @@
-#library
+#komen disini
 import numpy as np
 from sklearn.externals import joblib
 from sklearn.linear_model import LinearRegression
